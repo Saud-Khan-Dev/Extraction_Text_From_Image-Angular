@@ -21,7 +21,6 @@
     "rxjs": "~7.8.0",
     "tailwindcss": "^4.1.11",
     "tesseract.js": "^6.0.1",
-    "tesseract.ts": "^1.1.2",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
